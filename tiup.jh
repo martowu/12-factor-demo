@@ -1,0 +1,7 @@
+entity S_Apps {
+  name String required ,
+  version String,
+  type ServiceType,
+  rang String 
+}
+
